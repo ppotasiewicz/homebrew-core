@@ -3,7 +3,7 @@ class KubernetesHelm < Formula
   homepage "https://helm.sh/"
   url "https://github.com/kubernetes/helm.git",
       :tag => "v2.9.1",
-      :revision => "9ad53aac42165a5fadc6c87be0dea6b115f93090"
+      :revision => "20adb27c7c5868466912eebdf6664e7390ebe710"
   head "https://github.com/kubernetes/helm.git"
 
   bottle do
